@@ -1,0 +1,33 @@
+body{   
+font-family: Arial;
+background:red;
+text-align: justify;
+}
+
+
+
+
+h1{ 
+Color:yellow;
+text-align: center;
+font-size-adjust:16px;
+font-size:60px;
+letter-spacing: 15px;
+font-weight: bold;
+font-family: "Century Gothic";
+text-shadow: 10px 10px 10px blue;
+}
+
+h2{
+Color: yellow;
+font-family: "Century Gothic";	
+font-variant: small-caps;
+letter-spacing: 5px;
+}
+
+p {color: #F8C471 ;}
+
+a:link{ color:yellow;text-decoration: none; }
+a:visited{ color:#F0FF00;text-decoration: none; }
+a:hover{color:#2400FF; text-decoration: none;}
+a:active{ color: #FF00D2; text-decoration: none;}
